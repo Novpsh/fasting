@@ -1,4 +1,17 @@
-# Getting Started with Create React App
+# Five-Day Fasting Tracker
+
+A comprehensive React application to help you track and manage your five-day fasting journey. This application integrates yogic wisdom, nutritional biochemistry, and fasting expertise to create a safe, effective experience that promotes physical, mental, and spiritual well-being.
+
+## Features
+
+- **Daily Schedule Tracking**: Follow a detailed schedule for each day of your fast
+- **Hydration Monitoring**: Track your water intake based on personalized calculations
+- **Mineral Supplementation**: Keep track of your mineral intake throughout the day
+- **Physical Activity Guidance**: Get recommendations for appropriate physical activities during fasting
+- **Progress Visualization**: Monitor your overall progress through the five-day journey
+- **Breaking Fast Guidelines**: Detailed instructions for safely breaking your fast on day 5
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
